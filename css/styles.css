@@ -847,12 +847,12 @@ a {
 }
 
 .footer__brand {
-  margin-top: 5rem;
+  margin-top: 0;
   text-align: center;
 }
 
 .footer__brand img {
-  max-width: 230px;
+  max-width: 178px;
 }
 
 .footer__copyright {
